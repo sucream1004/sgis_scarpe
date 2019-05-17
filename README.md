@@ -1,3 +1,4 @@
+# Primitive Scraping T.
 ```
 #Finder
 $('#location_mapNavi_1').click();
@@ -39,5 +40,45 @@ $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 #Set the time
 setTimeout(function(){
     // code here
+}, 3000);
+```
+```
+####################################### EXAMPLE ##########################################
+$('.li-strong').eq(0).click();
+
+setTimeout(function(){
+    $('.li-strong').eq(18).click();
+}, 3000);
+
+setTimeout(function(){
+    $('.li-strong').eq(44).click();
+}, 6000);
+
+setTimeout(function(){
+    $('#navi-confirm').click()
+}, 9000);
+
+setTimeout(function(){
+    $('#btnList_1').click();
+}, 12000);
+
+setTimeout(function(){
+$('#API_0302-1').dblclick();
+}, 15000);
+
+setTimeout(function(){
+$('#div_y2000').click();
+}, 18000);
+
+setTimeout(function(){
+$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+}, 21000);
+
+setTimeout(function(){
+$('#div_y2005').click();
+}, 3000);
+
+setTimeout(function(){
+$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 }, 3000);
 ```
