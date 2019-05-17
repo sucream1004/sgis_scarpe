@@ -145,3 +145,12 @@ function range(start, stop, step) {
     return result;
 };
 ```
+
+## Data Order (by time)
+- Seoul Gangnam Gaepo (e.g.) [data_view.xls]
+- 2000 [data_view (1).xls]
+- 2005 ... continue
+- 2010
+- 2015
+- 2016
+- 2017 [data_view (6).xls]
