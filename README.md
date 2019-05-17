@@ -146,13 +146,12 @@ function range(start, stop, step) {
 };
 ```
 
-## Data Order (by time)
+## Data Order (by time): 5 for each area.
 | Data attribute | Filename |
 | --- | --- |
-| Seoul Gangnam Gaepo | data_view.xls |
-| Population 2000 | data_veiw (1).xls |
-| Population 2005 | ... |
-| Population 2010 | ... |
-| Population 2015 | ... |
-| Population 2016 | ... |
-| Population 2017 | data_view (6).xls |
+| Population 2000 Gaepo | data_veiw.xls |
+| Population 2005 Gaepo | ... |
+| Population 2010 Gaepo | ... |
+| Population 2015 Gaepo | ... |
+| Population 2016 Gaepo | ... |
+| Population 2017 Gaepo | data_view (5).xls |
