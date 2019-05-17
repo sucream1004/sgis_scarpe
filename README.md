@@ -1,4 +1,7 @@
 # Stupid stone-age style primitive scraping
+## for loop
+[JS for loop](https://www.w3schools.com/js/js_loop_for.asp)
+[JQuery $.each](https://api.jquery.com/each/)
 ```
 #Finder
 $('#location_mapNavi_1').click();
