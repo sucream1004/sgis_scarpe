@@ -9,7 +9,6 @@ $('.li-strong').eq(0).click();
 #Seoul Gu = 18 ~ 42
 $('.li-strong').eq(18).click();
 
-$('.popContent').eq(0).html('value to set');
 #double click the condition
 $('#API_4011-0 > div.text').dblclick();
 
