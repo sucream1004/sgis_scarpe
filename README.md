@@ -35,4 +35,9 @@ $('#navi-confirm').click()
 
 $('#div_y2017').click();
 $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+
+#Set the time
+setTimeout(function(){
+    // code here
+}, 3000);
 ```
