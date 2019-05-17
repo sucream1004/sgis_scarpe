@@ -147,10 +147,12 @@ function range(start, stop, step) {
 ```
 
 ## Data Order (by time)
-- Seoul Gangnam Gaepo (e.g.) [data_view.xls]
-- 2000 [data_view (1).xls]
-- 2005 ... continue
-- 2010
-- 2015
-- 2016
-- 2017 [data_view (6).xls]
+| Data attribute | Filename |
+| --- | --- |
+| Seoul Gangnam Gaepo | data_view.xls |
+| Population 2000 | data_veiw (1).xls |
+| Population 2005 | ... |
+| Population 2010 | ... |
+| Population 2015 | ... |
+| Population 2016 | ... |
+| Population 2017 | data_view (6).xls |
