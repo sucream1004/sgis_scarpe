@@ -149,7 +149,7 @@ function range(start, stop, step) {
 ## Data Order (by time): 5 for each area.
 | Data attribute | Filename |
 | --- | --- |
-| Population 2000 Gaepo | data_veiw.xls |
+| Population 2000 Gaepo | data_view.xls |
 | Population 2005 Gaepo | ... |
 | Population 2010 Gaepo | ... |
 | Population 2015 Gaepo | ... |
