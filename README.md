@@ -1,11 +1,14 @@
-# sgis_scrape
-```
-#Seoul
+#Finder
 $('#location_mapNavi_1').click();
 
 #Class selector
-$('.li-strong on').click();
 
+#Seoul
+$('.li-strong').eq(0).click();
+#Gangnam = 18th
+$('.li-strong').eq(18).click();
+
+$('.popContent').eq(0).html('value to set');
 #double click the condition
 $('#API_4011-0 > div.text').dblclick();
 
@@ -30,4 +33,3 @@ $('#navi-confirm').click()
 
 $('#div_y2017').click();
 $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
-```
