@@ -1,4 +1,4 @@
-# Primitive Scraping T.
+# Primitive Scraping T_T
 ```
 #Finder
 $('#location_mapNavi_1').click();
