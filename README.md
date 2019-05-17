@@ -43,7 +43,8 @@ setTimeout(function(){
 }, 3000);
 ```
 ```
-####################################### EXAMPLE ##########################################
+############################## EXAMPLE 개포동 2000~2015 ######################################
+
 $('.li-strong').eq(0).click();
 
 setTimeout(function(){
@@ -76,9 +77,25 @@ $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 
 setTimeout(function(){
 $('#div_y2005').click();
-}, 3000);
+}, 24000);
 
 setTimeout(function(){
 $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
-}, 3000);
+}, 27000);
+
+setTimeout(function(){
+$('#div_y2010').click();
+}, 30000);
+
+setTimeout(function(){
+$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+}, 33000);
+
+setTimeout(function(){
+$('#div_y2015').click();
+}, 36000);
+
+setTimeout(function(){
+$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+}, 39000);
 ```
