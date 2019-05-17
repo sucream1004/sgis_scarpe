@@ -1,4 +1,4 @@
-# Primitive Scraping T_T
+# Stupid stone-age style primitive scraping
 ```
 #Finder
 $('#location_mapNavi_1').click();
@@ -64,38 +64,54 @@ setTimeout(function(){
 }, 12000);
 
 setTimeout(function(){
-$('#API_0302-1').dblclick();
+    $('#API_0302-1').dblclick();
 }, 15000);
 
 setTimeout(function(){
-$('#div_y2000').click();
+    $('#div_y2000').click();
 }, 18000);
 
 setTimeout(function(){
-$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 }, 21000);
 
 setTimeout(function(){
-$('#div_y2005').click();
+    $('#div_y2005').click();
 }, 24000);
 
 setTimeout(function(){
-$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 }, 27000);
 
 setTimeout(function(){
-$('#div_y2010').click();
+    $('#div_y2010').click();
 }, 30000);
 
 setTimeout(function(){
-$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 }, 33000);
 
 setTimeout(function(){
-$('#div_y2015').click();
+    $('#div_y2015').click();
 }, 36000);
 
 setTimeout(function(){
-$('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
 }, 39000);
+
+setTimeout(function(){
+    $('#div_y2016').click();
+}, 42000);
+
+setTimeout(function(){
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+}, 45000);
+
+setTimeout(function(){
+    $('#div_y2017').click();
+}, 48000);
+
+setTimeout(function(){
+    $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+}, 51000);
 ```
