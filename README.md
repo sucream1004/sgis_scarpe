@@ -6,7 +6,7 @@ $('#location_mapNavi_1').click();
 
 #Seoul
 $('.li-strong').eq(0).click();
-#Gangnam = 18th
+#Seoul Gu = 18 ~ 42
 $('.li-strong').eq(18).click();
 
 $('.popContent').eq(0).html('value to set');
