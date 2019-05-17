@@ -6,8 +6,10 @@ $('#location_mapNavi_1').click();
 
 #Seoul
 $('.li-strong').eq(0).click();
-#Seoul Gu = 18 ~ 42
+#Gu = 18 ~ 42
 $('.li-strong').eq(18).click();
+#Dong = 44 ~ $('.li-strong').length - 1 p.s. 43 is all Dong.
+$('.li-strong').eq(44).click();
 
 #double click the condition
 $('#API_4011-0 > div.text').dblclick();
