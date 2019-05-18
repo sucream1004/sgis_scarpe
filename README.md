@@ -145,6 +145,64 @@ function range(start, stop, step) {
     return result;
 };
 ```
+## 동동
+```
+var dong = range(44, $('.li-strong').length)
+$.each(dong, function (j, m) {
+    $('.li-strong').eq(0).click();
+    setTimeout(function () {
+        $('.li-strong').eq(18).click();
+    }, 3000 + j*51000);
+    setTimeout(function () {
+        $('.li-strong').eq(m).click();
+    }, 6000 + j*51000);
+    setTimeout(function () {
+        $('#navi-confirm').click();
+    }, 9000+ j*51000  );
+    setTimeout(function () {
+        $('#btnList_1').click();
+    }, 12000+ j*51000  );
+    setTimeout(function () {
+        $('#API_4011-0').dblclick();
+    }, 15000 + j*51000 );
+    setTimeout(function () {
+        $('#div_y2000').click();
+    }, 18000 + j*51000 );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 21000 + j*51000 );
+    setTimeout(function () {
+        $('#div_y2005').click();
+    }, 24000 + j*51000 );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 27000 + j*51000 );
+    setTimeout(function () {
+        $('#div_y2010').click();
+    }, 30000 + j*51000 );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 33000 + j*51000 );
+    setTimeout(function () {
+        $('#div_y2015').click();
+    }, 36000+ j*51000  );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 39000  + j*51000);
+    setTimeout(function () {
+        $('#div_y2016').click();
+    }, 42000+ j*51000  );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 45000 + j*51000 );
+    setTimeout(function () {
+        $('#div_y2017').click();
+    }, 48000 + j*51000 );
+    setTimeout(function () {
+        $('#viewCurrentRegionData_dd_area > div > div.combineGrid > a').click();
+    }, 51000 + j*51000 );
+})
+```
 
 ## Data Order (by time): 5 for each area.
 | Data attribute | Filename |
